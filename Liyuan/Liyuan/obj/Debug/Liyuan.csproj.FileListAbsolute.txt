@@ -1,0 +1,7 @@
+C:\Users\王一舟\source\repos\Liyuan\Liyuan\bin\Debug\Liyuan.exe.config
+C:\Users\王一舟\source\repos\Liyuan\Liyuan\bin\Debug\Liyuan.exe
+C:\Users\王一舟\source\repos\Liyuan\Liyuan\bin\Debug\Liyuan.pdb
+C:\Users\王一舟\source\repos\Liyuan\Liyuan\obj\Debug\Liyuan.csprojAssemblyReference.cache
+C:\Users\王一舟\source\repos\Liyuan\Liyuan\obj\Debug\Liyuan.csproj.CoreCompileInputs.cache
+C:\Users\王一舟\source\repos\Liyuan\Liyuan\obj\Debug\Liyuan.exe
+C:\Users\王一舟\source\repos\Liyuan\Liyuan\obj\Debug\Liyuan.pdb

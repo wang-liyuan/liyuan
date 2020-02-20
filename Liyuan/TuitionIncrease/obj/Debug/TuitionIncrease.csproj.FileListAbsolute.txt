@@ -1,0 +1,7 @@
+C:\Users\王一舟\source\repos\Liyuan\TuitionIncrease\bin\Debug\TuitionIncrease.exe.config
+C:\Users\王一舟\source\repos\Liyuan\TuitionIncrease\bin\Debug\TuitionIncrease.exe
+C:\Users\王一舟\source\repos\Liyuan\TuitionIncrease\bin\Debug\TuitionIncrease.pdb
+C:\Users\王一舟\source\repos\Liyuan\TuitionIncrease\obj\Debug\TuitionIncrease.csproj.CoreCompileInputs.cache
+C:\Users\王一舟\source\repos\Liyuan\TuitionIncrease\obj\Debug\TuitionIncrease.exe
+C:\Users\王一舟\source\repos\Liyuan\TuitionIncrease\obj\Debug\TuitionIncrease.pdb
+C:\Users\王一舟\source\repos\Liyuan\TuitionIncrease\obj\Debug\TuitionIncrease.csprojAssemblyReference.cache

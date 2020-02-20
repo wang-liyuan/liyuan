@@ -1,0 +1,7 @@
+C:\Users\王一舟\source\repos\Liyuan\Time to burn calories\bin\Debug\Time to burn calories.exe.config
+C:\Users\王一舟\source\repos\Liyuan\Time to burn calories\bin\Debug\Time to burn calories.exe
+C:\Users\王一舟\source\repos\Liyuan\Time to burn calories\bin\Debug\Time to burn calories.pdb
+C:\Users\王一舟\source\repos\Liyuan\Time to burn calories\obj\Debug\Time to burn calories.csproj.CoreCompileInputs.cache
+C:\Users\王一舟\source\repos\Liyuan\Time to burn calories\obj\Debug\Time to burn calories.exe
+C:\Users\王一舟\source\repos\Liyuan\Time to burn calories\obj\Debug\Time to burn calories.pdb
+C:\Users\王一舟\source\repos\Liyuan\Time to burn calories\obj\Debug\Time to burn calories.csprojAssemblyReference.cache
